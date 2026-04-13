@@ -34,10 +34,4 @@ This project uses Logistic Regression to predict whether a person has diabetes b
 - Created a Streamlit web app for real-time predictions
 - Users can input values and get predictions instantly
 
----
 
-## 🚀 How to Run the Project
-
-### Install Dependencies
-```bash
-pip install -r requirements.txt
